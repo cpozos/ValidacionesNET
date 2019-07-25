@@ -1,0 +1,9 @@
+C:\Proyectos\ProyectosNET\Validaciones\obj\Debug\netstandard2.0\Validaciones.csprojAssemblyReference.cache
+C:\Proyectos\ProyectosNET\Validaciones\obj\Debug\netstandard2.0\Validaciones.csproj.CoreCompileInputs.cache
+C:\Proyectos\ProyectosNET\Validaciones\obj\Debug\netstandard2.0\Validaciones.AssemblyInfoInputs.cache
+C:\Proyectos\ProyectosNET\Validaciones\obj\Debug\netstandard2.0\Validaciones.AssemblyInfo.cs
+C:\Proyectos\ProyectosNET\Validaciones\bin\Debug\netstandard2.0\Validaciones.deps.json
+C:\Proyectos\ProyectosNET\Validaciones\bin\Debug\netstandard2.0\Validaciones.dll
+C:\Proyectos\ProyectosNET\Validaciones\bin\Debug\netstandard2.0\Validaciones.pdb
+C:\Proyectos\ProyectosNET\Validaciones\obj\Debug\netstandard2.0\Validaciones.dll
+C:\Proyectos\ProyectosNET\Validaciones\obj\Debug\netstandard2.0\Validaciones.pdb
